@@ -56,7 +56,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Nikhilchalla&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Nikhilchalla.vercel.app/api?username=Nikhilchalla&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-Nikhilchalla.vercel.app/api/top-langs/?username=Nikhilchalla&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
@@ -65,6 +65,3 @@
 <hr/>
 
 <br/>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/777505954136064001)](https://discord.com/users/777505954136064001)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhilchalla)](https://github.com/Nikhilchalla)
