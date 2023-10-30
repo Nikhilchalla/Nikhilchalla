@@ -55,7 +55,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Nikhilchalla&show_icons=true&theme=transparent" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Nikhilchalla&show_icons=true&theme=default#gh-light-mode-only" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilchalla&layout=compact" />
 </div>
