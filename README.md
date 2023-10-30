@@ -67,3 +67,4 @@
 <br/>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/777505954136064001)](https://discord.com/users/777505954136064001)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhilchalla)](https://github.com/Nikhilchalla)
