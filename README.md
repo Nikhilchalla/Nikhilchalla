@@ -11,7 +11,9 @@
 <div align="center">
  
  🔭 I’m currently working on **Backend Framework**
+
  🌱 I’m currently learning **Data Structures & Algorithms**
+
  ⚡ Fun fact **Coding isn't just for the tech industry**
  
  </div>
