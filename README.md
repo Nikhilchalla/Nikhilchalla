@@ -57,7 +57,7 @@
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Nikhilchalla&show_icons=true&theme=transparent" />
   <br/>
-  <img width=325 align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilchalla)](https://github.com/Nikhilchalla)" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilchalla" />
 </div>
 
 <br/><br/>
