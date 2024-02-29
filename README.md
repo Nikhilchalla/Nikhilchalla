@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nikhil!;" />
 </h1>
-<div style="text-align: center;">
+<div align="center">
     <img src="https://api.statusbadges.me/badge/status/777505954136064001" alt="status">
     <img src="https://api.statusbadges.me/badge/vscode/777505954136064001" alt="vscode">
     <img src="https://api.statusbadges.me/badge/spotify/777505954136064001" alt="spotify">
