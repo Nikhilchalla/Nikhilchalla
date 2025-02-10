@@ -14,11 +14,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Backend Framework**
+ 🔭 Building scalable **Backend Frameworks**
+ 
+ 🔗 Contributing to the **Decentralized future**
 
- 🌱 I’m currently Contributing to **Web3 Projects**
-
- ⚡ Fun fact **It takes balls to be a clown**
+ ⚡ Fun fact **Debugging is just a fancy term for solving mysteries**
  
  </div>
  
