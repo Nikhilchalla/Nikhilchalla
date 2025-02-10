@@ -16,9 +16,9 @@
  
  🔭 I’m currently working on **Backend Framework**
 
- 🌱 I’m currently learning **Data Structures & Algorithms**
+ 🌱 I’m currently Contributing to **Web3 Projects**
 
- ⚡ Fun fact **Coding isn't just for the tech industry**
+ ⚡ Fun fact **It takes balls to be a clown**
  
  </div>
  
