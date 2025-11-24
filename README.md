@@ -22,14 +22,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,java,mysql" /><br>
 </div>
 
-<br/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilchalla&layout=compact" />
-</div>
-
 <br/><br/>
 <hr/>
 
