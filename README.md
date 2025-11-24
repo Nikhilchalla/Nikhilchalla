@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
- ⛓️ Building scalable **projects** | Contributing to the **Decentralized future** | Node **Architect**
+  Building scalable <b>projects</b> | Contributing to the <b>Decentralized future</b> Blockchain Node <b>Architect</b>
  </div>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
