@@ -13,31 +13,10 @@
 <br/>
 
 <div align="center">
- 
- 🔭 Building scalable **Backend Frameworks**
- 
- 🔗 Contributing to the **Decentralized future**
-
- ⚡ Fun fact **Debugging is just a fancy term for solving mysteries**
- 
+ ⛓️ Building scalable **projects** | Contributing to the **Decentralized future** | Node **Architect**
  </div>
  
-<div align="center"> 
-  <a href="mailto:nikhilchalla511@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/Nikhil-Challa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/Nikhilchalla" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
- 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,java,mysql" /><br>
