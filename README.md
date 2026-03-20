@@ -20,16 +20,12 @@
 </div>
 <h3 align="center">Engineer focused on Blockchain, AI/ML, and DevOps.</h3>
 <p align="center">Building systems that scale. Learning what's next.</p>
- 
----
 
-<h2 align="center">🙋‍♂️ About Me</h2>
+<h2>🙋‍♂️ About Me</h2>
 
-<p align="center">
+<p>
   🔗 &nbsp; Building on <b>Web3</b> — smart contracts, DeFi, and decentralized infra <br/>
   🌐 &nbsp; Crafting full-stack <b>Web2</b> apps with clean and scalable code <br/>
   🏎️ &nbsp; Huge <b>F1</b> fan — following every race, every season <br/>
   🎬 &nbsp; Big <b>movies</b> guy — always up for a good recommendation <br/>
 </p>
-
----
