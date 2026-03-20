@@ -8,13 +8,8 @@
     <img src="https://api.statusbadges.me/badge/vscode/777505954136064001" alt="vscode">
     <img src="https://api.statusbadges.me/badge/spotify/777505954136064001" alt="spotify">
 </div>
-<h3 align="center">A Passionate Computer Science Enthusiast </h3>
-
-<br/>
-
-<div align="center">
-  Building scalable <b>projects</b> 🎯 Contributing to the <b>Decentralized future</b> 🎯 Blockchain Node <b>Architect</b>
- </div>
+<h3 align="center">Engineer focused on Blockchain, AI/ML, and DevOps.</h3>
+<p align="center">Building systems that scale. Learning what's next.</p>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
