@@ -30,10 +30,6 @@
   - I watch Movies when am bored af !<br/>
 </p> -->
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nikhilchalla.Nikhilchalla" align="right"/>
-</div>
-
 <!-- BANNER -->
 <div style="background:#0d1117; border-radius:10px; padding: 30px; display:flex; align-items:center; justify-content:space-between;">
 
@@ -55,25 +51,8 @@
 
 <br/>
 
-<!-- STATUS BADGES -->
-<div align="center">
-  <a href="https://discord.com/users/777505954136064001">
-    <img src="https://img.shields.io/badge/Discord-@0xtitan__-%235865F2?style=flat&logo=discord&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://wakatime.com/@973b1127-df31-4b2b-81df-3b59deffeb5f">
-    <img src="https://wakatime.com/badge/user/973b1127-df31-4b2b-81df-3b59deffeb5f.svg?style=flat" />
-  </a>
-  &nbsp;
-  <a href="https://open.spotify.com/user/0xtitan__">
-    <img src="https://img.shields.io/badge/Spotify-Listen-%231DB954?style=flat&logo=spotify&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
 <!-- LANGUAGE STATS -->
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilchalla&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
 
@@ -87,17 +66,6 @@
 🎬 &nbsp; Big **movies** guy — always up for a good recommendation <br/>
 
 <br/>
-
-## ⚒️ Languages · Frameworks · Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java" />
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,solidity,git" />
-  <img src="https://skillicons.dev/icons?i=vscode,github,linux" />
-</div>
-
-<br/>
-
 <!-- GITHUB STATS -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikhilchalla&show_icons=true&theme=github_dark&hide_border=true" height="165" />
