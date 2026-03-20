@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Discord-@0xtitan__-%235865F2?style=flat&logo=discord&logoColor=white" />
   </a>
 
-  <a href="https://wakatime.com/@973b1127-df31-4b2b-81df-3b59deffeb5f">
+  <a href="https://wakatime.com/@0xtian__">
     <img src="https://wakatime.com/badge/user/973b1127-df31-4b2b-81df-3b59deffeb5f.svg?style=flat" />
   </a>
 
