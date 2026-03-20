@@ -24,8 +24,8 @@
 <h2>🙋‍♂️ About Me</h2>
 
 <p>
-  🔗 &nbsp; Building on <b>Web3</b> — smart contracts, DeFi, and decentralized infra <br/>
-  🌐 &nbsp; Crafting full-stack <b>Web2</b> apps with clean and scalable code <br/>
-  🏎️ &nbsp; Huge <b>F1</b> fan — following every race, every season <br/>
-  🎬 &nbsp; Big <b>movies</b> guy — always up for a good recommendation <br/>
+  - Building on <b>Web3</b> — Community Manager, DeFi, Marketing & Partnerships <br/>
+  - Vibe coding and learning new Tech<br/>
+  - <b>F1</b> fan — Red Bull & Mad Max <br/>
+  - I watch Movies when am bored af !<br/>
 </p>
