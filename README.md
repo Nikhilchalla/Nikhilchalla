@@ -16,7 +16,7 @@
   </a>
 
 </div>
-<h3 align="center">Engineer focused on Blockchain, AI/ML, and DevOps.</h3>
+<h3 align="center">Engineer focused on New Things</h3>
 <p align="center">Building systems that scale. Learning what's next.</p>
 
 <h2>🙋‍♂️ About Me</h2>
