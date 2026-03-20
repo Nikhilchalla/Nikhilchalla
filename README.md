@@ -21,14 +21,15 @@
 <h3 align="center">Engineer focused on Blockchain, AI/ML, and DevOps.</h3>
 <p align="center">Building systems that scale. Learning what's next.</p>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,java,mysql" /><br>
-</div>
+---
 
-<!-- <br/>
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Open+to+Collab/Contribute!;" />
-</h3>
--->
+<h2 align="center">🙋‍♂️ About Me</h2>
+
+<p align="center">
+  🔗 &nbsp; Building on <b>Web3</b> — smart contracts, DeFi, and decentralized infra <br/>
+  🌐 &nbsp; Crafting full-stack <b>Web2</b> apps with clean and scalable code <br/>
+  🏎️ &nbsp; Huge <b>F1</b> fan — following every race, every season <br/>
+  🎬 &nbsp; Big <b>movies</b> guy — always up for a good recommendation <br/>
+</p>
+
+---
