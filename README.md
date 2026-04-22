@@ -23,6 +23,6 @@
 <p>
   - <b>Web3</b> Community Manager, DeFi, Marketing & Partnerships <br/>
   - Vibe coding and learning new Stuff<br/>
-  - <b>F1</b> Red Bull & Mad Verstappen <br/>
-  - I watch Movies when am bored af !<br/>
+  - <b>F1</b> Red Bull & Max Verstappen <br/>
+  - I eat eat when am bored af !<br/>
 </p>
