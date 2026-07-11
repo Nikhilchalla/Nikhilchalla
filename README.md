@@ -22,7 +22,7 @@
 <h2>🙋‍♂️ About Me</h2>
 <p>
   - <b>Web3</b> Community Manager, DeFi, Marketing & Partnerships <br/>
-  - Vibe coding and learning new Stuff<br/>
+  - Scaling systems and infra on Cloud <br/>
   - <b>F1</b> Red Bull & Max Verstappen <br/>
-  - I eat eat when am bored af !<br/>
+  - I eat when am bored af !<br/>
 </p>
