@@ -1,29 +1,5 @@
-<!-- <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nikhil!;" />
-</h1>
-<div align="center">
-
-  <a href="https://discord.com/users/777505954136064001">
-    <img src="https://img.shields.io/badge/Discord-@0xtitan__-%235865F2?style=flat&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/user/0xtitan__">
-    <img src="https://img.shields.io/badge/Spotify-Listen-%231DB954?style=flat&logo=spotify&logoColor=white" />
-  </a>
-
-</div>
-<h3 align="center">Engineer focused on new Things</h3>
-<p align="center">Building systems that scale. Learning what's next.</p>
-
-<h2>🙋‍♂️ About Me</h2>
-<p>
-  - <b>Web3</b> Community Manager, DeFi, Marketing & Partnerships <br/>
-  - Scaling systems and infra on Cloud <br/>
-  - <b>F1</b> Red Bull & Max Verstappen <br/>
-  - I eat when am bored af !<br/>
-</p> -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I'm+Nikhil!;Building+on+Cloud+%2B+Web3;Always+shipping+something" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I'm+Nikhil!;Building+on+Cloud+& Infra;" />
 </h1>
 
 <p align="center">
@@ -40,7 +16,7 @@
 </p>
 
 <h3 align="center">Engineer focused on what's next</h3>
-<p align="center">Building systems that scale. Shipping infra. Exploring the Web3 → Cloud → AI stack.</p>
+<p align="center">Building systems that scale. Shipping infra. Exploring the Cloud → AI stack.</p>
 
 ---
 
@@ -48,7 +24,7 @@
 
 - 🌐 **Web3** — Community Management, DeFi, Marketing & Partnerships
 - ☁️ Scaling systems and infrastructure on the **Cloud**
-- 🏎️ **F1** fan through and through — Red Bull & Max Verstappen 🇳🇱
+- 🏎️ **F1** fan through and through — Red Bull & Max Verstappen
 - 🍕 I eat when I'm bored, af.
 
 ---
