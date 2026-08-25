@@ -1,16 +1,39 @@
-<br>
-
 <p align="center">
   <img src="./assets/banner.jpg" width="100%" />
 </p>
 
 <br>
 
-`root@0xtitan:~# whoami`
 
-<br>
+```md
+```bash
+root@nikhil:~# ls ~/skills
 
-**devops** // **cloud** // **kubernetes** // **terraform** // **linux**
+aws/          terraform/      kubernetes/      docker/
+linux/        bash/           python/          git/
+github-actions/              gcp/             nginx/
+postgresql/   redis/          react/           nodejs/
+avalanche/    solidity/       sui/
+
+root@nikhil:~# cat skill-levels
+
+AWS              █████████░  85%
+Terraform        █████████░  85%
+Docker           █████████░  85%
+Kubernetes       ████████░░  80%
+Linux            ████████░░  80%
+CI/CD            ████████░░  80%
+Git              █████████░  85%
+Bash             ███████░░░  75%
+GCP              ███████░░░  70%
+Python           ███████░░░  70%
+
+root@nikhil:~# free -h
+knowledge     100%
+used           76%
+free           24%
+
+root@nikhil:~# _
 
 <br>
 
