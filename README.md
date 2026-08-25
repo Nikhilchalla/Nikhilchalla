@@ -1,53 +1,17 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I'm+Nikhil!;Building+on+Cloud;" />
-</h1>
+<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nikhilchalla&style=flat&color=blueviolet" alt="profile views" />
-  <a href="https://discord.com/users/777505954136064001">
-    <img src="https://img.shields.io/badge/Discord-@0xtitan__-5865F2?style=flat&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/user/0xtitan__">
-    <img src="https://img.shields.io/badge/Spotify-Listen-1DB954?style=flat&logo=spotify&logoColor=white" />
-  </a>
-  <a href="https://hub.docker.com/u/0xtitan">
-    <img src="https://img.shields.io/badge/Docker%20Hub-0xtitan-2496ED?style=flat&logo=docker&logoColor=white" />
-  </a>
+  <img src="./assets/banner.png" width="100%" />
 </p>
 
-<h3 align="center">Engineer focused on what's next</h3>
-<p align="center">Building systems that scale. Shipping infra. Exploring the Cloud → AI stack.</p>
+<br>
 
----
+`root@0xtitan:~# whoami`
 
-### 🙋‍♂️ About Me
+<br>
 
-- 🌐 **Web3** — Community Management, DeFi, Marketing & Partnerships
-- ☁️ Scaling systems and infrastructure on the **Cloud**
-- 🏎️ **F1** fan through and through — Red Bull & Max Verstappen
-- 🍕 I eat when I'm bored, af.
+**devops** // **cloud** // **kubernetes** // **terraform** // **linux**
 
----
+<br>
 
-### 🛠️ Tech Stack
-
-**Cloud & Infra**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/k3s-FFC61C?style=flat&logo=k3s&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-</p>
-
-**Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-</p>
-
----
-<p align="center"><i>🏎️ "It's lights out and away we go" — always racing to ship the next build.</i></p>
+[website](https://nikhilchalla.vercel.app) | [projects](https://github.com/Nikhilchalla?tab=repositories) | [linkedin](https://linkedin.com/nikhil-challa) | [x (twitter)](https://x.com/0xtitan__) | [email](mailto:nikhilchalla511@gmail.com)
