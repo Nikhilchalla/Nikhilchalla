@@ -13,7 +13,7 @@ aws/          terraform/      kubernetes/      docker/
 linux/        bash/           python/          git/
 github-actions/              gcp/             nginx/
 postgresql/   redis/          react/           nodejs/
-avalanche/    solidity/       sui/
+solidity/ 
 
 root@nikhil:~# cat skill-levels
 
@@ -35,6 +35,7 @@ free           24%
 
 root@nikhil:~# _
 
+```
 <br>
 
 [website](https://nikhilchalla.vercel.app) | [projects](https://github.com/Nikhilchalla?tab=repositories) | [linkedin](https://linkedin.com/nikhil-challa) | [x (twitter)](https://x.com/0xtitan__) | [email](mailto:nikhilchalla511@gmail.com)
