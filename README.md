@@ -1,14 +1,11 @@
 <p align="center">
   <img src="./assets/banner.jpg" width="100%" />
 </p>
-
 <br>
-
 
 ```md
 ```bash
 root@nikhil:~# ls ~/skills
-
 aws/          terraform/      kubernetes/      docker/
 linux/        bash/           python/          git/
 github-actions/              gcp/             nginx/
@@ -16,7 +13,6 @@ postgresql/   redis/          react/           nodejs/
 solidity/ 
 
 root@nikhil:~# cat skill-levels
-
 AWS              █████████░  85%
 Terraform        █████████░  85%
 Docker           █████████░  85%
@@ -32,8 +28,6 @@ root@nikhil:~# free -h
 knowledge     100%
 used           76%
 free           24%
-
-root@nikhil:~# _
 
 ```
 <br>
